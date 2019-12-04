@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=f\ x\ y\ dx\ dy\ xSize\ ySize\ filename
+comment1.target=Snake(javax.swing.JFrame,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ loadClips()
+comment11.params=index
+comment11.target=void\ playClip(int)
+comment2.params=
+comment2.target=void\ initSnake()
+comment3.params=
+comment3.target=void\ makeLonger()
+comment4.params=
+comment4.target=boolean\ collided()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=i
+comment7.target=java.awt.geom.Rectangle2D.Double\ getRect(int)
+comment8.params=
+comment8.target=void\ update()
+comment9.params=dx\ dy
+comment9.target=void\ changeDirection(int,\ int)
+numComments=12
